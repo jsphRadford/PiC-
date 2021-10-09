@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlinkingLight", "BlinkingLight.csproj", "{B356516E-4554-43B5-86A2-41696C0B7CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonLights", "..\ButtonLights\ButtonLights.csproj", "{06070F93-9E54-49F3-BA34-9B62028163AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B356516E-4554-43B5-86A2-41696C0B7CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B356516E-4554-43B5-86A2-41696C0B7CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B356516E-4554-43B5-86A2-41696C0B7CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B356516E-4554-43B5-86A2-41696C0B7CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06070F93-9E54-49F3-BA34-9B62028163AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06070F93-9E54-49F3-BA34-9B62028163AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06070F93-9E54-49F3-BA34-9B62028163AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06070F93-9E54-49F3-BA34-9B62028163AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB14F7E9-9BC3-4236-9E4C-94A5332B8EC6}
+	EndGlobalSection
+EndGlobal
